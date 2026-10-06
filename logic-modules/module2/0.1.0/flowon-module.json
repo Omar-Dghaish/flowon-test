@@ -1,0 +1,10 @@
+{
+  "id": "e6c4896b-6960-402b-bdb7-fd3ebb675a95",
+  "name": "module2",
+  "version": "0.1.0",
+  "company": "company",
+  "description": "m2-comp1",
+  "releaseNotes": "",
+  "engineVersion": "1.0.0",
+  "dependencies": []
+}
