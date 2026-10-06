@@ -4,7 +4,7 @@
   "version": "Draft",
   "company": "company",
   "description": "m2-comp1",
-  "releaseNotes": null,
+  "releaseNotes": "",
   "engineVersion": "1.0.0",
   "dependencies": []
 }
